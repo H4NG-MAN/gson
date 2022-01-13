@@ -62,14 +62,14 @@
     <dependency>
       <groupId>com.google.protobuf</groupId>
       <artifactId>protobuf-java</artifactId>
-      <version>3.4.0</version>
+      <version>3.16.1</version>
       <scope>compile</scope>
     </dependency>
     
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>24.1.1-android</version>
+      <version>30.0-android</version>
       <scope>compile</scope>
     </dependency>
 
